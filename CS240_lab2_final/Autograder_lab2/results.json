@@ -1,0 +1,24 @@
+[
+  {
+    "filename": "23b1068_23b0958.py",
+    "check_valid_score": 10,
+    "check_valid_feedback": "All tests passed",
+    "get_neighbours_score": 10,
+    "get_neighbours_feedback": "All tests passed",
+    "gstar_score": 5.0,
+    "gstar_feedback": "All tests passed",
+    "h1_score": 5.0,
+    "h1_feedback": "All tests passed",
+    "h2_score": 5.0,
+    "h2_feedback": "All tests passed",
+    "h3_score": 5.0,
+    "h3_feedback": "All tests passed",
+    "astar_h1_score": 0,
+    "astar_h1_feedback": "Error: 'tuple' object has no attribute 'copy'; Error: 'tuple' object has no attribute 'copy'; Error: 'tuple' object has no attribute 'copy'; Error: 'tuple' object has no attribute 'copy'; Error: 'tuple' object has no attribute 'copy'",
+    "astar_h2_score": 0,
+    "astar_h2_feedback": "Error: 'tuple' object has no attribute 'copy'; Error: 'tuple' object has no attribute 'copy'; Error: 'tuple' object has no attribute 'copy'; Error: 'tuple' object has no attribute 'copy'; Error: 'tuple' object has no attribute 'copy'",
+    "astar_h3_score": 0,
+    "astar_h3_feedback": "Error: 'tuple' object has no attribute 'copy'; Error: 'tuple' object has no attribute 'copy'; Error: 'tuple' object has no attribute 'copy'; Error: 'tuple' object has no attribute 'copy'; Error: 'tuple' object has no attribute 'copy'",
+    "total_score": 40.0
+  }
+]

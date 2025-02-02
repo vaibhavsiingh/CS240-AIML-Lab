@@ -1,0 +1,7 @@
+Instructions for running autograder for lab-2:
+
+1. Create a directory named submissions in the directory of the autograder.
+2. Move/copy your code into this directory. 
+3. Run python3 autograder_lab2.py command.
+4. The marks for each function along with comments are saved into results.json file.
+5. Frivolous cribs will attract penalty. 
